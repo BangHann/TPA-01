@@ -127,9 +127,9 @@ button:active{
  
 .model{
     border: 1px solid #000000;
-    height: 560px;
+    height: 360px;
     position: absolute;
-    bottom: 200px;
+    bottom: 120px;
     left: 80%;
     transform: translateX(-70%);
     border-radius: 100%;
@@ -221,8 +221,7 @@ ul li{
 
 .isi-blog h4{
     color: #ffffff;
-    text-align: right;
-    
+    margin-bottom: 40px;
 }
 
 .isi-blog p{
